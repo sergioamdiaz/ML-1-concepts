@@ -7,6 +7,9 @@ data/
 # Data Docs:
 *.csv
 
+# Class Videos
+Videos/
+
 # Docs Folder:
 Docs/
 docs/
