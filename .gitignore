@@ -14,6 +14,10 @@ Videos/
 Docs/
 docs/
 
+# Templates and solutions:
+Solutions/
+Template Notebooks/
+
 # Trained Models:
 Notebooks/efficientdet_car_pedestrian.keras
 *.keras
